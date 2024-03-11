@@ -145,6 +145,6 @@ DOMAIN-SUFFIX,emby.at
 DOMAIN-SUFFIX,ycxdy.top
 DOMAIN-SUFFIX,reddust.link
 DOMAIN-SUFFIX,am.sb
-DOMAIN-SUFFIX,cfporn.ii00.cc
-DOMAIN-SUFFIX,cfgeneral.ii00.cc
+DOMAIN,cfporn.ii00.cc
+DOMAIN,cfgeneral.ii00.cc
 IP-CIDR,102.223.180.108/32
