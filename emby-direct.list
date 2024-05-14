@@ -1,3 +1,4 @@
 # emby-direct 国内直连的 emby 服务
 DOMAIN,sgtv.ii00.cc
 DOMAIN,sptv.ii00.cc
+IP-CIDR,98.126.27.164/32
