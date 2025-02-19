@@ -1,0 +1,104 @@
+{
+  "sites": [
+    {
+      "name": "量子资源|godling",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "黑木耳(海外)|godling",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+      "name": "黑木耳|godling",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+      "name": "视频采集3|godling",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "IKUN资源|godling",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"
+    },
+    {
+      "name": "光速资源|godling",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "极速资源|godling",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "红牛资源|godling",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    },
+    {
+      "name": "7ced0073619101d397b5c86fc3578ed4|godling",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*色猫资源|godling",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php"
+    },
+    {
+      "name": "*色南国资源|godling",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*抖阴视频|godling",
+      "type": 1,
+      "api": "https://www.888dav.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*麻豆视频2|godling",
+      "type": 1,
+      "api": "https://madouse.la/api.php/provide/vod/"
+    },
+    {
+      "name": "*蛋蛋视频|godling",
+      "type": 1,
+      "api": "https://156.249.29.8/inc/apijson_vod.php"
+    },
+    {
+      "name": "*91麻豆|godling",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/"
+    },
+    {
+      "name": "kkzy.me|godling",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "api.apilyzy.com|godling",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*乐播资源|godling",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*易看资源|godling",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "*番号资源|godling",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/"
+    }
+  ]
+}
