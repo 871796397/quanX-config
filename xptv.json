@@ -1,14 +1,9 @@
 {
   "sites": [
     {
-      "name": "🔞淫水机|godling",
+      "name": "🔞美少女|godling",
       "type": 1,
-      "api": "https://www.xrbsp.com/api/xml.php"
-    },
-    {
-      "name": "🔞乐播资源|godling",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/"
+      "api": "https://www.msnii.com/api/xml.php"
     },
     {
       "name": "成人07|godling",
@@ -16,29 +11,9 @@
       "api": "http://wmcj8.com/inc/sapi.php"
     },
     {
-      "name": "💞番号资源💞|godling",
+      "name": "🔞淫水机|godling",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/"
-    },
-    {
-      "name": "🔞番号资源|godling",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "name": "🔞乐播|godling",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "name": "🔞色猫资源（慢）|godling",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"
-    },
-    {
-      "name": "🔞美少女|godling",
-      "type": 1,
-      "api": "https://www.msnii.com/api/xml.php"
+      "api": "https://www.xrbsp.com/api/xml.php"
     },
     {
       "name": "💞大地资源💞|godling",
@@ -46,9 +21,29 @@
       "api": "https://dadiapi.com/api.php"
     },
     {
+      "name": "🔞色猫资源（慢）|godling",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "🔞番号资源|godling",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "💞番号资源💞|godling",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/"
+    },
+    {
       "name": "💞香奶儿资源💞|godling",
       "type": 1,
       "api": "https://www.gdlsp.com/api/xml.php"
+    },
+    {
+      "name": "成人32|godling",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php"
     },
     {
       "name": "环亚|godling",
@@ -61,24 +56,9 @@
       "api": "https://www.kxgav.com/api/xml.php"
     },
     {
-      "name": "成人32|godling",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php"
-    },
-    {
       "name": "AIvin|godling",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "name": "番号资源(卡切)|godling",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "Sm|godling",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/api.php"
     },
     {
       "name": "(18+)SS资源|godling",
@@ -86,24 +66,19 @@
       "api": "http://secj8.com/inc/sapi.php?ac=videolist"
     },
     {
+      "name": "番号资源(卡切)|godling",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json"
+    },
+    {
       "name": "*9号资源|godling",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/"
     },
     {
-      "name": "🔞*色屌丝资源|godling",
+      "name": "成人19|godling",
       "type": 1,
-      "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-    },
-    {
-      "name": "🔞咪咪资源|godling",
-      "type": 1,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
-    {
-      "name": "(18+)乐播|godling",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
+      "api": "http://91md.me/api.php/provide/vod/"
     },
     {
       "name": "成人25|godling",
@@ -111,19 +86,24 @@
       "api": "http://99zy.pw/api.php/provide/vod/"
     },
     {
-      "name": "*咪咪|godling",
-      "type": 1,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml"
-    },
-    {
-      "name": "*咪咪资源站|godling",
-      "type": 1,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/zp/vod/xml"
-    },
-    {
       "name": "成人09|godling",
       "type": 1,
       "api": "http://dadiapi.com/api.php"
+    },
+    {
+      "name": "Sm|godling",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/api.php"
+    },
+    {
+      "name": "黄AV资源(已修复)|godling",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/xml.php"
+    },
+    {
+      "name": "🔞熊猫资源|godling",
+      "type": 1,
+      "api": "http://jcspcj8.com/api?ac=list"
     },
     {
       "name": "黑木耳(海外)|godling",
@@ -136,24 +116,9 @@
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
     },
     {
-      "name": "成人19|godling",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/"
-    },
-    {
       "name": "极速资源|godling",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/"
-    },
-    {
-      "name": "7ced0073619101d397b5c86fc3578ed4|godling",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/"
-    },
-    {
-      "name": "黄AV资源(已修复)|godling",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/xml.php"
     },
     {
       "name": "AIvin|AV|godling",
@@ -166,29 +131,9 @@
       "api": "https://www.caoliuzyw.com/api.php/prodao/vod/"
     },
     {
-      "name": "🔞熊猫资源|godling",
-      "type": 1,
-      "api": "http://jcspcj8.com/api?ac=list"
-    },
-    {
       "name": "🔞大地av|godling",
       "type": 1,
       "api": "https://dadiapi.com/apple_m3u8.php"
-    },
-    {
-      "name": "奶香香|AV|godling",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/"
-    },
-    {
-      "name": "*麻豆视频2|godling",
-      "type": 1,
-      "api": "https://madouse.la/api.php/provide/vod/"
-    },
-    {
-      "name": "*色南国资源|godling",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/"
     },
     {
       "name": "光速资源|godling",
@@ -196,9 +141,149 @@
       "api": "http://api.guangsuapi.com/api.php/provide/vod/"
     },
     {
+      "name": "7ced0073619101d397b5c86fc3578ed4|godling",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "MISSAV|godling",
+      "type": 3,
+      "api": "csp_miss",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/missav.js"
+    },
+    {
       "name": "*91麻豆|godling",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/"
+    },
+    {
+      "name": "🔞鲨鱼影视|godling",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/"
+    },
+    {
+      "name": "麻豆社|godling",
+      "type": 3,
+      "api": "csp_madou",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
+    },
+    {
+      "name": "秋名山見(live)|godling",
+      "type": 3,
+      "api": "csp_harunasan",
+      "ext": "https://gist.githubusercontent.com/Yswag/d9f072b75dab5b1b107c523dd148eea3/raw/harunasan.js"
+    },
+    {
+      "name": "Hanime1|godling",
+      "type": 3,
+      "api": "csp_Hanime1",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js"
+    },
+    {
+      "name": "SupJav|godling",
+      "type": 3,
+      "api": "csp_SupJav",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SupJav.js"
+    },
+    {
+      "name": "玩偶姐姐|godling",
+      "type": 3,
+      "api": "csp_hkdoll",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
+    },
+    {
+      "name": "91jav (無海報)|godling",
+      "type": 3,
+      "api": "csp_91jav",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/91jav.js"
+    },
+    {
+      "name": "hohoj|godling",
+      "type": 3,
+      "api": "csp_hohoj",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hohoj.js"
+    },
+    {
+      "name": "avtoday|godling",
+      "type": 3,
+      "api": "csp_avtoday",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avtoday.js"
+    },
+    {
+      "name": "KoreaPornMovie|godling",
+      "type": 3,
+      "api": "csp_KPM",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/KoreaPornMovie.js"
+    },
+    {
+      "name": "pppHub|godling",
+      "type": 3,
+      "api": "csp_ppron",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ppp.js"
+    },
+    {
+      "name": "xhamster|godling",
+      "type": 3,
+      "api": "csp_xhamster",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xhamster.js"
+    },
+    {
+      "name": "jable|godling",
+      "type": 3,
+      "api": "csp_jable",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jable.js"
+    },
+    {
+      "name": "pornhub|godling",
+      "type": 3,
+      "api": "csp_pornhub",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/pornhub.js"
+    },
+    {
+      "name": "花都影視|godling",
+      "type": 3,
+      "api": "csp_hdys",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdys.js"
+    },
+    {
+      "name": "Taiav|godling",
+      "type": 3,
+      "api": "csp_Taiav",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/taiav.js"
+    },
+    {
+      "name": "肉视频|godling",
+      "type": 3,
+      "api": "csp_rou",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/rou.js"
+    },
+    {
+      "name": "JavMove|godling",
+      "type": 3,
+      "api": "csp_JavMove",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/javmove.js"
+    },
+    {
+      "name": "有爱爱|godling",
+      "type": 3,
+      "api": "csp_uaa",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/uua.js"
+    },
+    {
+      "name": "avdb|godling",
+      "type": 3,
+      "api": "csp_avdb",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
+    },
+    {
+      "name": "鲨鱼资源|AV|godling",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "奥斯卡资源|AV|godling",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/"
     }
   ]
 }
